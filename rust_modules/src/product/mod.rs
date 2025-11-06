@@ -9,7 +9,7 @@ use category::Category;
         category:Category,
     }
     
-    mod category;
+   pub mod category;
     
     
     impl Product {

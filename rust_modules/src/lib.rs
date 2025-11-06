@@ -1,3 +1,3 @@
-mod product;
-mod customer;
-mod order;
+pub mod product;
+pub mod customer;
+pub mod order;

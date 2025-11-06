@@ -2,7 +2,7 @@
 
 use crate::product::Product;
 use crate::customer::Customer;
-    struct Order {
+   pub struct Order {
         id: u64,
         product: Product,
         customer: Customer,
